@@ -10,8 +10,6 @@ Analyste quantitatif, spécialisé en **risque de crédit**, entre l'**actuariat
 
 **Outils** : Python · R · SQL · VBA · Power BI · Excel · Git
 
-**Formation** : M. Sc. en sciences de l'administration (finance) · Master en sciences actuarielles · Baccalauréat en mathématiques
-
 **En ce moment** : je construis KossiQuant, une plateforme d'outils quantitatifs (simulations de VaR, de Black-Scholes et de défaut conjoint), et une bibliothèque de méthodes de modélisation et de validation pour l'actuariat et la finance.
 
 📍 Canada
